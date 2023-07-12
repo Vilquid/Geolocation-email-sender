@@ -23,6 +23,11 @@ To run this script, you will need :
 
 The script has a basic error handling mechanism for Outlook email sending operation. If an error occurs, the error message will be outputted to the PowerShell console.
 
+## Tips from the creator
+
+1. If you don't want to buy a rubber ducky, you can execute automatically 4.ps1 by runnig 4.bat with an SFX archive. Moreover if you use an NSFW picture for your archive, the thief's curiosity will be triggered and, maybe, you will receive by email his location.
+2. With an SFX archve, you can delete 4.ps1 and 4.bat after their extraction.
+
 ## Contributing
 
 We welcome contributions to this project. Please feel free to open an issue or submit a pull request.
